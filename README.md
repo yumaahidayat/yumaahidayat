@@ -1,4 +1,4 @@
-[View my CV](./CV_Yumaa_Hidayat.pdf)
+[Check Yumaa's CV](./CV_Yumaa_Hidayat.pdf)
 
 <!--
 **yumaahidayat/yumaahidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
